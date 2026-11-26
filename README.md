@@ -1,2 +1,0 @@
-# ASDM
-For ASDM Exam
